@@ -21,6 +21,7 @@ function Header() {
         <HeaderItem title="User" Icon={UserIcon} />
       </div>
       <Image
+        alt="hulu-logo"
         className="object-contain cursor-pointer"
         src="https://links.papareact.com/ua6"
         width={200}
